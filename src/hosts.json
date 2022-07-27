@@ -2553,5 +2553,19 @@
       "hostprivacyurl": "https:\/\/www.vodio.fr\/p\/5\/c-g-u\/",
       "notes": "Le podcast accessible à tous. Vous créez, on héberge. 0€/mois sans publicités, ni frais cachés.",
       "pi-slug": ""
+    },
+    {
+      "pattern": "cdnstream1.com",
+      "rss-pattern": "cdnstream1.com",
+      "hostname": "SoundStack",
+      "retailer": "1",
+      "iab": "1",
+      "abilities_stats": "1",
+      "abilities_tracking": "0",
+      "abilities_dynamicaudio": "1",
+      "hosturl": "https:\/\/cdnstream1.com\/",
+      "hostprivacyurl": "https:\/\/soundstack.com\/privacy-policy\/",
+      "notes": "Formerly known as EmpireStreaming",
+      "pi-slug": ""
     }
 ]
